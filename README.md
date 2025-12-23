@@ -26,5 +26,3 @@ This is a modern **Point of Sale (POS) system** built with **Laravel**. It allow
 * Customer management
 * Dashboard with sales statistics and analytics
 * Responsive design for desktop and mobile
-
-If you want, I can make a **slightly more polished version** with the Overview and Tech Stack written in **paragraph form**, so it looks more professional for GitHub or a portfolio. Do you want me to do that?
